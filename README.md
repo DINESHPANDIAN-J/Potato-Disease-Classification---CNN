@@ -66,7 +66,6 @@ This project aims to classify potato diseases using deep learning techniques. It
 - The trained model is saved for future use or deployment.
 
 ## Usage
-- Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-- Install the required dependencies: `pip install -r requirements.txt`
+- Clone the repository: `git clone https://github.com/DINESHPANDIAN-J/Potato-Disease-Classification---CNN/edit/main/README.md`
 - Run the Jupyter Notebook to train and evaluate the model.
 
